@@ -7,4 +7,4 @@ subprocess.run([
     "../scripts/transform_spark.py"
 ])
 
-print("Pipeline completed successfully ✅")
+print("Pipeline completed successfully")
