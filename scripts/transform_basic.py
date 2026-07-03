@@ -16,4 +16,4 @@ df['revenue'] = df['amount']
 # Save final output
 df.to_csv("data/processed/final_output.csv", index=False)
 
-print("Transformation complete ✅")
+print("Transformation complete")
