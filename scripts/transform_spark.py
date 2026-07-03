@@ -44,6 +44,6 @@ output_path = "C:/Users/Admin/OneDrive/Desktop/telecom_data_pipeline/data/proces
 df.toPandas().to_csv(output_path, index=False)
 
 print("Saved to:", output_path)
-print("Done ✅")
+print("Done")
 
 spark.stop()
