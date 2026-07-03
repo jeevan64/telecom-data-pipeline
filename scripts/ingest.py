@@ -22,4 +22,4 @@ customers.to_csv("data/processed/customers_clean.csv", index=False)
 usage.to_csv("data/processed/usage_clean.csv", index=False)
 recharge.to_csv("data/processed/recharge_clean.csv", index=False)
 
-print("Done ✅")
+print("Done")
